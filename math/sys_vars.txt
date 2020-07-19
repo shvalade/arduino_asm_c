@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Arduino\hardware\tools\avr\bin
+C:\Program Files (x86)\Arduino\hardware\tools\avr\etc
+COM3
+57600
